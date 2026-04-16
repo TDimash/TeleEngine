@@ -1,0 +1,6 @@
+{
+  "name": "TeleEngine - Async Bot Framework",
+  "description": "A production-ready, asynchronous Python library for building Telegram bots with FSM, Middlewares, and advanced filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
